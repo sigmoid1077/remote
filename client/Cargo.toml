@@ -1,0 +1,9 @@
+[package]
+name = "client"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+bevy.workspace = true
+bevy-inspector-egui.workspace = true
+net.workspace = true
